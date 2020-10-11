@@ -1,4 +1,4 @@
-# first
+# first_vue_odn
 初めてVue CLIを使ってみたので何をアップしてどこを消していいか良くわかりません、、
 
 > A Vue.js project
